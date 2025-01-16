@@ -18,5 +18,5 @@ I'm Kevin Pratama an undergraduated student at Mercu Buana University. Intereste
 </p>
 
 ### Connect with me :smiley:
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/kevin-pratama-9454b0250/)
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:kevinpratama1201@gmail.com)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/muhammad-ilza-batistuta-07a010347/)
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:m.ilzabatistuta@gmail.com)
